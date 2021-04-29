@@ -1,0 +1,3 @@
+name: serverless
+runtime: nodejs
+description: serverless example with s3, lambda, dynamo
