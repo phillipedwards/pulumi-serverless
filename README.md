@@ -6,7 +6,7 @@ This Pulumi app will create a simple serverless application in AWS consisting of
 
 ## Usage
 Download and install the [Pulumi](https://www.pulumi.com/docs/get-started/)
-Clone this repository
+Clone this repository  
 run 'pulumi up'
 
 ## License
