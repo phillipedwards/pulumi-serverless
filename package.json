@@ -9,6 +9,7 @@
         "@pulumi/awsx": "^0.30.0"
     },
     "scripts": {
-        "build": "tsc"
+        "build": "tsc",
+        "postinstall": "cd app && npm install && npm prune --production"
     }
 }
