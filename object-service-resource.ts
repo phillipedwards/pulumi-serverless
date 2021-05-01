@@ -6,7 +6,7 @@ import { Function } from "@pulumi/aws/lambda";
 const runtime = "nodejs12.x";
 const codePath = "./app";
 
-export class ObjectService extends pulumi.ComponentResource {
+export class ObjectServiceResource extends pulumi.ComponentResource {
     public readonly writerLambda: Function;
 
     constructor(name: string, opts: pulumi.ComponentResourceOptions) {

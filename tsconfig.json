@@ -14,6 +14,6 @@
     },
     "files": [
         "index.ts",
-        "lambda-dynamo.ts"
+        "object-service-resource.ts"
     ]
 }
