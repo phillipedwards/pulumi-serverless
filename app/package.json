@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "aws-sdk": "^2.895.0"
+    "aws-sdk": "^2.895.0",
+    "typescript": "^4.2.4"
   },
   "dependencies": {
     "aws-lambda": "^1.0.6"
