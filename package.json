@@ -10,6 +10,6 @@
     },
     "scripts": {
         "build": "tsc",
-        "postinstall": "cd app && npm install && npm prune --production"
+        "postinstall": "cd app && npm install"
     }
 }
