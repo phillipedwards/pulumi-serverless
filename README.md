@@ -9,10 +9,10 @@ NodeJS > 11.x
 
 ## Usage
 Download and install the [Pulumi](https://www.pulumi.com/docs/get-started/) cli  
-Clone this repository 
-Execute 'npm install'
-Execute 'cd app && npm run build && cd ..'
-Execute 'pulumi up'
+Clone this repository   
+Execute 'npm install'  
+Execute 'cd app && npm run build && cd ..'  
+Execute 'pulumi up'  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
