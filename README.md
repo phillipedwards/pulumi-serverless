@@ -11,7 +11,6 @@ NodeJS > 11.x
 Download and install the [Pulumi](https://www.pulumi.com/docs/get-started/) cli  
 Clone this repository   
 Execute 'npm install'  
-Execute 'cd install'  
 Execute 'npm run build'  
 Execute 'pulumi up'  
 
